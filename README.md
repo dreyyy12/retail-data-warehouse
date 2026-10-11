@@ -29,6 +29,7 @@ The warehouse is organized into three schemas:
 - **Initial load:** built `fact_sales`, `dim_customer`, and `dim_product` from the cleaned tables, using surrogate keys.
 - **Slowly Changing Dimensions:** Type 1 for customer and product attributes (overwrite), Type 2 to keep the full history of membership level changes.
 - **Incremental load:** loads only new customer point records based on the last loaded date.
+- **Analytical queries:** top-selling products and membership analysis.
 
 ## Key Findings
 
