@@ -56,7 +56,3 @@ SQL Server, T-SQL, SSMS, draw.io
 ## Full Report
 
 [Read the full project report (PDF, in Indonesian)](docs/Laporan_Proyek_DW.pdf)
-
-## Team
-
-[Nama anggota tim, kalau mereka setuju dicantumkan]
